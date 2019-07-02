@@ -1,0 +1,37 @@
+.btn2{
+  box-sizing: border-box;
+  height: 32px;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 4px 1em;
+  margin: 10px;
+  position: relative;
+  overflow: hidden;
+}
+.btn2:focus{
+  outline: none; 
+  border: 1px solid black;
+}
+.btn2 > .circle{
+  border-radius: 50%;
+  height: 10px;
+  width: 10px;
+  background: #ddd;
+  opacity: 0.5;
+  display: inline-block;
+  animation: 0.6s big forwards;
+  position: absolute;
+}
+.btn2 > .value{
+  position: relative;
+  z-index: 1;
+}
+@keyframes big{
+  0%{
+    transform: scale(0.1);
+  }
+  100%{
+    transform: scale(15);
+  }
+}
