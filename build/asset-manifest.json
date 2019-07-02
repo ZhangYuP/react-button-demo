@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-button-demo/build/static/css/main.052f0333.chunk.css",
+    "main.js": "/react-button-demo/build/static/js/main.1d8d3937.chunk.js",
+    "main.js.map": "/react-button-demo/build/static/js/main.1d8d3937.chunk.js.map",
+    "runtime~main.js": "/react-button-demo/build/static/js/runtime~main.ebe80243.js",
+    "runtime~main.js.map": "/react-button-demo/build/static/js/runtime~main.ebe80243.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-button-demo/build/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-button-demo/build/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-button-demo/build/index.html",
+    "precache-manifest.e699d421caaa57cae9a500ba28d769fc.js": "/react-button-demo/build/precache-manifest.e699d421caaa57cae9a500ba28d769fc.js",
+    "service-worker.js": "/react-button-demo/build/service-worker.js",
+    "static/css/main.052f0333.chunk.css.map": "/react-button-demo/build/static/css/main.052f0333.chunk.css.map"
+  }
+}
